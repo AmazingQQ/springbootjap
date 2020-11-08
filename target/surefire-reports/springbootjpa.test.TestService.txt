@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: springbootjpa.test.TestService
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 28.023 s - in springbootjpa.test.TestService

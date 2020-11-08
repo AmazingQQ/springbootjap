@@ -1,0 +1,12 @@
+springbootjpa\common\Result.class
+springbootjpa\Application.class
+springbootjpa\dao\UserDao.class
+springbootjpa\dao\RoleDao.class
+springbootjpa\service\impl\RoleServiceImpl.class
+springbootjpa\entity\Role.class
+springbootjpa\controller\UserController.class
+springbootjpa\service\RoleService.class
+springbootjpa\controller\RoleController.class
+springbootjpa\entity\User.class
+springbootjpa\service\UserService.class
+springbootjpa\service\impl\UserServiceImpl.class
